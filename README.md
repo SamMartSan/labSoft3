@@ -1,5 +1,5 @@
-Repositorio Laboratorio de Software III
+Rama de Samuel Martinez Sanchez
 
-* Santiago Abadia Gomez
-* Samuel Martinez Sanchez
+Podremos hacer cambios a esta rama sin dañar el proyecto original
+
 
